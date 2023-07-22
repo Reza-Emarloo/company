@@ -1,0 +1,989 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.8)  12 MAY 2021 19:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Amintoosi_CV.tex
+(./Amintoosi_CV.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(c:/texlive/2020/texmf-dist/tex/xelatex/bidi/bidimoderncv.cls
+Document Class: bidimoderncv 
+(c:/texlive/2020/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 147.
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+)
+\Gin@req@height=\dimen134
+\Gin@req@width=\dimen135
+)
+(c:/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/marvosym/marvosym.sty
+Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
+)
+(c:/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(c:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(c:/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(c:/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen136
+\Hy@linkcounter=\count163
+\Hy@pagecounter=\count164
+
+(c:/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count165
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count166
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen137
+
+(c:/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count167
+\Field@Width=\dimen138
+\Fld@charsize=\dimen139
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(c:/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+
+Package hyperref Warning: Option `pdfpagelabels' is turned off
+(hyperref)                because \thepage is undefined.
+
+\c@Item=\count168
+\c@Hfootnote=\count169
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (c:/texlive/2020/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2020/01/14 v7.00d Hyperref driver for XeTeX
+
+(c:/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box45
+\c@Hy@AnnotLevel=\count170
+\HyField@AnnotCount=\count171
+\Fld@listcount=\count172
+\c@bookmark@seq@number=\count173
+
+(c:/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+(c:/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip47
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 90.
+
+(c:/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip48
+\f@nch@O@elh=\skip49
+\f@nch@O@erh=\skip50
+\f@nch@O@olh=\skip51
+\f@nch@O@orh=\skip52
+\f@nch@O@elf=\skip53
+\f@nch@O@erf=\skip54
+\f@nch@O@olf=\skip55
+\f@nch@O@orf=\skip56
+)
+\quotewidth=\skip57
+\hintscolumnwidth=\skip58
+\separatorcolumnwidth=\skip59
+\maincolumnwidth=\skip60
+\doubleitemmaincolumnwidth=\skip61
+\listitemsymbolwidth=\skip62
+\listitemmaincolumnwidth=\skip63
+\listdoubleitemmaincolumnwidth=\skip64
+\bibindent=\skip65
+)
+(c:/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip66
+\bibsep=\skip67
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count174
+)
+(c:/texlive/2020/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(c:/texlive/2020/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(c:/texlive/2020/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(c:/texlive/2020/texmf-dist/tex/xelatex/xepersian/xepersian.sty
+Package: xepersian 2020/05/17 v23.1 Persian typesetting in XeLaTeX
+
+(c:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty
+(c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-03-06 L3 programming layer (loader) 
+
+(c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-03-12 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count175
+\l__pdf_internal_box=\box46
+\g__pdf_backend_object_int=\count176
+\g__pdf_backend_annotation_int=\count177
+))
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count178
+\g__xparse_grabber_int=\count179
+\l__xparse_m_args_int=\count180
+\l__xparse_v_nesting_int=\count181
+)
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(c:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count182
+\l__fontspec_language_int=\count183
+\l__fontspec_strnum_int=\count184
+\l__fontspec_tmp_int=\count185
+\l__fontspec_tmpa_int=\count186
+\l__fontspec_tmpb_int=\count187
+\l__fontspec_tmpc_int=\count188
+\l__fontspec_em_int=\count189
+\l__fontspec_emdef_int=\count190
+\l__fontspec_strong_int=\count191
+\l__fontspec_strongdef_int=\count192
+\l__fontspec_tmpa_dim=\dimen140
+\l__fontspec_tmpb_dim=\dimen141
+\l__fontspec_tmpc_dim=\dimen142
+
+(c:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(c:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(c:/texlive/2020/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
+Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
+\XePersian@i=\count193
+\XePersian@y=\count194
+\XePersian@m=\count195
+\XePersian@d=\count196
+\XePersian@latini=\count197
+\XePersian@persiani=\count198
+\XePersian@latinii=\count199
+\XePersian@persianii=\count266
+\XePersian@latiniii=\count267
+\XePersian@persianiii=\count268
+\XePersian@latiniv=\count269
+\XePersian@persianiv=\count270
+\XePersian@latinv=\count271
+\XePersian@persianv=\count272
+\XePersian@latinvi=\count273
+\XePersian@persianvi=\count274
+\XePersian@latinvii=\count275
+\XePersian@persianvii=\count276
+\XePersian@latinviii=\count277
+\XePersian@persianviii=\count278
+\XePersian@latinix=\count279
+\XePersian@persianix=\count280
+\XePersian@latinx=\count281
+\XePersian@persianx=\count282
+\XePersian@latinxi=\count283
+\XePersian@persianxi=\count284
+\XePersian@latinxii=\count285
+\XePersian@persianxii=\count286
+\XePersian@persianxiii=\count287
+\XePersian@temp=\count288
+\XePersian@temptwo=\count289
+\XePersian@tempthree=\count290
+\XePersian@yModHundred=\count291
+\XePersian@thirtytwo=\count292
+\XePersian@dn=\count293
+\XePersian@sn=\count294
+\XePersian@mminusone=\count295
+)
+(c:/texlive/2020/texmf-dist/tex/xelatex/xepersian/xepersian-mathsdigitspec.sty
+Package: xepersian-mathsdigitspec 2018/12/16 v1.1.7 Unicode Persian maths digit
+s in XeLaTeX
+) (c:/texlive/2020/texmf-dist/tex/xelatex/bidi/bidi.sty
+Package: bidi 2020-01-29 v35.11 Bidirectional typesetting in plain TeX and LaTe
+X
+
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2009--2019 Vafa Khalighi
+* 2018-2020 bidi-tex GitHub Organisation
+* 
+* v35.11, 2020-01-29
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/bidi-tex/bidi/issues
+* 
+****************************************************
+(c:/texlive/2020/texmf-dist/tex/xelatex/bidi/biditools.sty
+Package: biditools 2020-01-29 v1.10 Programming tools for bidi package
+\@bidi@envbody=\toks16
+\@bidi@emptytoks=\toks17
+\bidi@tempcountb=\count296
+\bidi@temptoksa=\toks18
+\bidi@temptoksb=\toks19
+\bidi@dummies=\count297
+\bidi@are@these@correct=\toks20
+\bidi@toks@lista=\toks21
+\bidi@toks@listb=\toks22
+\bidi@stack@length=\count298
+\bidi@empty@stack=\toks23
+\bidi@looprepeat@depth=\count299
+)
+(c:/texlive/2020/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2020-03-03 v2.29 Module abspage for zref (HO)
+
+(c:/texlive/2020/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2020-03-03 v2.29 Module base for zref (HO)
+Package zref Info: New property list: main on input line 763.
+Package zref Info: New property: default on input line 764.
+Package zref Info: New property: page on input line 765.
+)
+\c@abspage=\count300
+Package zref Info: New property: abspage on input line 66.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(c:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks24
+\XKV@tempa@toks=\toks25
+)
+\XKV@depth=\count301
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\@bidi@copyins@=\insert252
+
+(c:/texlive/2020/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
+File: latex-xetex-bidi.def 2019/03/03 v1.3.7 bidi adaptations for `latex.ltx' f
+or XeTeX engine
+\bidi@n@everypar=\toks26
+\bidi@column@check@number=\count302
+
+(c:/texlive/2020/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
+File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX en
+gine
+\c@footdir@label=\count303
+\footdir@toks=\toks27
+)
+(c:/texlive/2020/texmf-dist/tex/xelatex/bidi/color-xetex-bidi.def
+File: color-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for color package f
+or XeTeX engine
+LaTeX Info: Redefining \color on input line 46.
+)
+(c:/texlive/2020/texmf-dist/tex/xelatex/bidi/graphicx-xetex-bidi.def
+File: graphicx-xetex-bidi.def 2017/06/17 v0.5 bidi adaptations for graphicx pac
+kage for XeTeX engine
+)
+(c:/texlive/2020/texmf-dist/tex/xelatex/bidi/hyperref-xetex-bidi.def
+File: hyperref-xetex-bidi.def 2018/11/11 v1.1 bidi adaptations for hyperref pac
+kage for XeTeX engine
+)
+(c:/texlive/2020/texmf-dist/tex/xelatex/bidi/fancyhdr-xetex-bidi.def
+File: fancyhdr-xetex-bidi.def 2018/02/15 v0.7 bidi adaptations for fancyhdr pac
+kage for XeTeX engine
+)
+(c:/texlive/2020/texmf-dist/tex/xelatex/bidi/natbib-xetex-bidi.def
+File: natbib-xetex-bidi.def 2017/06/09 v0.2 bidi adaptations for natbib package
+ for XeTeX engine
+))
+(c:/texlive/2020/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.def
+File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
+ last package loaded
+)
+\bidi@digits=\count304
+\bidi@digits@charclass=\XeTeXcharclass1
+\bidi@sepmark@charclass=\XeTeXcharclass2
+)
+****************************************************
+* 
+* xepersian package (Persian for LaTeX, using XeTeX engine)
+* 
+* Description: The package supports Persian
+* typesetting, using fonts provided in the
+* distribution.
+* 
+* Copyright (c) 2008--2020 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub Organization
+* 
+* v23.1, 2020/05/17
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/xepersian
+* 
+* Issue tracker: https://github.com/persiantex/xepersian/issues
+* 
+* Primary author of xepersian package: Vafa Khalighi.
+* 
+****************************************************
+\xepersian@tcl=\count305
+\xepersian@ilg=\dimen143
+\xepersian@strutilg=\dimen144
+(c:/texlive/2020/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
+File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is 
+the last package loaded
+)
+(c:/texlive/2020/texmf-dist/tex/xelatex/xepersian/footnote-xepersian.def
+File: footnote-xepersian.def 2017/08/09 v0.6 footnote macros for xepersian pack
+age
+)
+(c:/texlive/2020/texmf-dist/tex/xelatex/xepersian/hyperref-xepersian.def
+File: hyperref-xepersian.def 2015/02/02 v0.6 bilingual captions for hyperref pa
+ckage
+)
+(c:/texlive/2020/texmf-dist/tex/xelatex/xepersian/natbib-xepersian.def
+File: natbib-xepersian.def 2011/08/01 v0.1 adaptations for natbib package
+LaTeX Info: Redefining \Latincite on input line 243.
+)
+(c:/texlive/2020/texmf-dist/tex/xelatex/xepersian/bidimoderncv-xepersian.def
+File: bidimoderncv-xepersian.def 2010/07/25 v0.1 adaptations for bidimoderncv c
+lass
+)
+
+Package fontspec Info: Font family 'lmroman10-regular(0)' created for font
+(fontspec)             'lmroman10-regular' with options
+(fontspec)             [Ligatures=TeX,Path,BoldFont={lmroman10-bold},BoldItalic
+Font={lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmroma
+ncaps10-regular},SlantedFont={lmromanslant10-regular},BoldSlantedFont={lmromans
+lant10-bold}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-regular]/OT:script=latn;language=dflt;map
+ping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bold]/OT:script=latn;language=dflt;mappin
+g=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-italic]/OT:script=latn;language=dflt;mapp
+ing=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-regular]/OT:script=latn;language=dfl
+t;mapping=tex-text;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bolditalic]/OT:script=latn;language=dflt;
+mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-bold]/OT:script=latn;language=dflt;m
+apping=tex-text;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+
+)
+
+Package fontspec Info: Font family 'XBZar(0)' created for font 'XB Zar' with
+(fontspec)             options [Script=Persian,Ligatures=PersianTeX,Scale=1].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/OT:script=arab;language=dflt;mapping=persian-tex-tex
+t;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/B/OT:script=arab;language=dflt;mapping=persian-tex-t
+ext;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/I/OT:script=arab;language=dflt;mapping=persian-tex-t
+ext;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/BI/OT:script=arab;language=dflt;mapping=persian-tex-
+text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
+(Font)              scaled to size 10.95pt on input line 21.
+
+Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX,Scale=1].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1]"Times New
+(fontspec)             Roman/OT:language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1]"Times New
+(fontspec)             Roman/B/OT:language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[1]"Times New
+(fontspec)             Roman/I/OT:language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->s*[1]"Times
+(fontspec)             New Roman/BI/OT:language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Info: Redefining \latinfont on input line 22.
+
+Package fontspec Info: Could not resolve font "IranNastaliq/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "IranNastaliq/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "IranNastaliq/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'IranNastaliq(0)' created for font
+(fontspec)             'IranNastaliq' with options
+(fontspec)             [Script=Persian,Ligatures=PersianTeX,Scale=1.2].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1.2]"IranNastaliq/OT:script=arab;language=dflt;map
+ping=persian-tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+(./Amintoosi_CV.aux)
+\openout1 = `Amintoosi_CV.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
+7.
+ (c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+\AtBeginShipoutBox=\box47
+Package hyperref Info: Link coloring OFF on input line 37.
+
+(c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(c:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count306
+)
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
+
+(./Amintoosi_CV.out) (./Amintoosi_CV.out)
+\@outlinefile=\write3
+\openout3 = `Amintoosi_CV.out'.
+
+
+(c:/texlive/2020/texmf-dist/tex/xelatex/bidi/cvthemebidiclassic.sty
+Package: cvthemebidiclassic 
+Package color Info: Redefining color sectionrectanglecolor on input line 59.
+\maketitlenamemaxwidth=\skip68
+\maketitlenamefullwidth=\skip69
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
+(Font)              scaled to size 34.0pt on input line 97.
+
+
+Package fontspec Warning: Bad colour declaration "". Colour must be one of:
+(fontspec)                 * a named xcolor colour
+(fontspec)                 * a six-digit hex colour RRGGBB
+(fontspec)                 * an eight-digit hex colour RRGGBBTT with opacity
+
+
+Package fontspec Warning: Bad colour declaration "". Colour must be one of:
+(fontspec)                 * a named xcolor colour
+(fontspec)                 * a six-digit hex colour RRGGBB
+(fontspec)                 * an eight-digit hex colour RRGGBBTT with opacity
+
+
+Package fontspec Warning: Bad colour declaration "". Colour must be one of:
+(fontspec)                 * a named xcolor colour
+(fontspec)                 * a six-digit hex colour RRGGBB
+(fontspec)                 * an eight-digit hex colour RRGGBBTT with opacity
+
+
+Package fontspec Warning: Bad colour declaration "". Colour must be one of:
+(fontspec)                 * a named xcolor colour
+(fontspec)                 * a six-digit hex colour RRGGBB
+(fontspec)                 * an eight-digit hex colour RRGGBBTT with opacity
+
+
+Package fontspec Info: Font family 'XBZar(1)' created for font 'XB Zar' with
+(fontspec)             options
+(fontspec)             [Script=Persian,Ligatures=PersianTeX,Scale=1,Color=].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/OT:script=arab;language=dflt;mapping=persian-tex-tex
+t;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/B/OT:script=arab;language=dflt;mapping=persian-tex-t
+ext;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/I/OT:script=arab;language=dflt;mapping=persian-tex-t
+ext;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/BI/OT:script=arab;language=dflt;mapping=persian-tex-
+text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
+(Font)              scaled to size 34.0pt on input line 97.
+\maketitlenamewidth=\skip70
+\maketitlepicturewidth=\skip71
+\maketitledetailswidth=\skip72
+) (c:/texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
+File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
+
+)
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
+(Font)              scaled to size 17.28pt on input line 39.
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/sl' in size <17.28> not available
+
+(Font)              Font shape `TU/XBZar(0)/m/it' tried instead on input line 3
+9.
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/it' will be
+(Font)              scaled to size 17.28pt on input line 39.
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/sl' in size <10.95> not available
+
+(Font)              Font shape `TU/XBZar(0)/m/it' tried instead on input line 3
+9.
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/it' will be
+(Font)              scaled to size 10.95pt on input line 39.
+
+Package fontspec Info: Font family 'XBZar(2)' created for font 'XB Zar' with
+(fontspec)             options
+(fontspec)             [Script=Persian,Ligatures=PersianTeX,Scale=1,Color=80808
+0].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/OT:script=arab;language=dflt;mapping=persian-tex-tex
+t;color=808080FF
+(fontspec)             ;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/B/OT:script=arab;language=dflt;mapping=persian-tex-t
+ext;color=808080FF
+(fontspec)             ;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/I/OT:script=arab;language=dflt;mapping=persian-tex-t
+ext;color=808080FF
+(fontspec)             ;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/BI/OT:script=arab;language=dflt;mapping=persian-tex-
+text;color=808080FF
+(fontspec)             ;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/XBZar(2)/m/sl' in size <17.28> not available
+
+(Font)              Font shape `TU/XBZar(2)/m/it' tried instead on input line 3
+9.
+LaTeX Font Info:    Font shape `TU/XBZar(2)/m/it' will be
+(Font)              scaled to size 17.28pt on input line 39.
+
+Package fontspec Info: Font family 'XBZar(3)' created for font 'XB Zar' with
+(fontspec)             options
+(fontspec)             [Script=Persian,Ligatures=PersianTeX,Scale=1,Color=69696
+9].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/OT:script=arab;language=dflt;mapping=persian-tex-tex
+t;color=696969FF
+(fontspec)             ;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/B/OT:script=arab;language=dflt;mapping=persian-tex-t
+ext;color=696969FF
+(fontspec)             ;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/I/OT:script=arab;language=dflt;mapping=persian-tex-t
+ext;color=696969FF
+(fontspec)             ;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/BI/OT:script=arab;language=dflt;mapping=persian-tex-
+text;color=696969FF
+(fontspec)             ;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/XBZar(3)/m/sl' in size <10.95> not available
+
+(Font)              Font shape `TU/XBZar(3)/m/it' tried instead on input line 3
+9.
+LaTeX Font Info:    Font shape `TU/XBZar(3)/m/it' will be
+(Font)              scaled to size 10.95pt on input line 39.
+LaTeX Font Info:    Trying to load font information for U+mvs on input line 39.
+
+
+(c:/texlive/2020/texmf-dist/tex/latex/marvosym/umvs.fd)
+File: rsz_120201107_102352.jpg Graphic file (type bmp)
+<rsz_120201107_102352.jpg>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 39--39
+[][][][]| [][][][] [][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[][][][][][]
+ []
+
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 40.
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 40.
+
+Package fontspec Info: Font family 'XBZar(4)' created for font 'XB Zar' with
+(fontspec)             options
+(fontspec)             [Script=Persian,Ligatures=PersianTeX,Scale=1,Color=1E90F
+F].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/OT:script=arab;language=dflt;mapping=persian-tex-tex
+t;color=1E90FFFF
+(fontspec)             ;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/B/OT:script=arab;language=dflt;mapping=persian-tex-t
+ext;color=1E90FFFF
+(fontspec)             ;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/I/OT:script=arab;language=dflt;mapping=persian-tex-t
+ext;color=1E90FFFF
+(fontspec)             ;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->s*[1]"XB
+(fontspec)             Zar/BI/OT:script=arab;language=dflt;mapping=persian-tex-
+text;color=1E90FFFF
+(fontspec)             ;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/XBZar(4)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 40.
+LaTeX Font Info:    Font shape `TU/XBZar(0)/b/n' will be
+(Font)              scaled to size 10.95pt on input line 41.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--46
+[][]
+ []
+
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 10.95pt on input line 48.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 48.
+
+Overfull \hbox (44.46765pt too wide) in paragraph at lines 48--48
+[][]\U/pzd/m/n/10.95 HHHN [] HHHN []| []
+ []
+
+
+Overfull \hbox (44.99323pt too wide) in paragraph at lines 49--49
+[][]\U/pzd/m/n/10.95 HHMI [] HHMI []| []
+ []
+
+
+Overfull \hbox (44.62094pt too wide) in paragraph at lines 50--50
+[][]\U/pzd/m/n/10.95 HHNI [] HHNI []| []
+ []
+
+
+Overfull \hbox (44.77423pt too wide) in paragraph at lines 51--51
+[][]\U/pzd/m/n/10.95 HHLI [] HHLI []| []
+ []
+
+
+Overfull \hbox (44.77423pt too wide) in paragraph at lines 52--52
+[][]\U/pzd/m/n/10.95 HHII [] HHII []| []
+ []
+
+
+Overfull \hbox (44.77423pt too wide) in paragraph at lines 53--53
+[][]\U/pzd/m/n/10.95 HHII [] HHII []| []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--54
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+[][]
+ []
+
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 59.
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+[][]
+ []
+
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 66.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
+(Font)              scaled to size 8.0pt on input line 66.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 68.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 68.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 68.
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+[][]
+ []
+
+LaTeX Font Info:    Font shape `TU/XBZar(3)/m/sl' in size <9> not available
+(Font)              Font shape `TU/XBZar(3)/m/it' tried instead on input line 8
+2.
+LaTeX Font Info:    Font shape `TU/XBZar(3)/m/it' will be
+(Font)              scaled to size 9.0pt on input line 82.
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--98
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--101
+[][]
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
+ (./Amintoosi_CV.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 113.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
+Package rerunfilecheck Info: File `Amintoosi_CV.out' has not changed.
+(rerunfilecheck)             Checksum: 6C87D4395D31A13EA863D8135AA71F69;505.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
+ ) 
+Here is how much of TeX's memory you used:
+ 13887 strings out of 479418
+ 270883 string characters out of 5888106
+ 618064 words of memory out of 5000000
+ 31099 multiletter control sequences out of 15000+600000
+ 537212 words of font info for 120 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 52i,13n,90p,1238b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Amintoosi_CV.pdf (2 pages).
